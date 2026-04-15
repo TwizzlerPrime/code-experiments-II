@@ -1,0 +1,1 @@
+rectangleWidth = 10;
