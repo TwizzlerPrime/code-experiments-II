@@ -40,7 +40,7 @@ while running:
 				game_state = "too_early"
 				start_time = current_time + random.randint(500,5000)
 
-			elif game_state == "too_early"
+			elif game_state == "too_early":
 				game_state = "wait"
 				start_time =current_time + random.randint(500,5000)
 
